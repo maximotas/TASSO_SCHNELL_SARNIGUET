@@ -29,7 +29,7 @@ Le projet est structuré comme suit :
 
 Ce choix de structure et de technologies vise à simplifier l'utilisation et l'extension de l'API.
 
-## Démarrage Rapide
+## Démarrage 
 
 Pour visualiser les articles et générer des nuages de mots, suivez les instructions et liens fournis sur la page d'accueil de l'API.
 
