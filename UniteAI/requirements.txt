@@ -1,0 +1,4 @@
+flask
+wordcloud
+selenium
+webdriver_manager
